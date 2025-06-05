@@ -1,2 +1,2 @@
 # Project_SLC_DSBA_INNHotels
-Project 4 of the University of Texas Data Science and Business Analytics program
+Through this project, I deepened my ability to translate raw data into concrete business value. I cleaned and engineered features that captures booking behavior, handled class-imbalance in cancellation labels, and evaluated multiple algorithms before utilizing a gradient-boosting model that flags likely cancellations with strong precision and recall. I turned model outputs into deliverable insights for a company.
